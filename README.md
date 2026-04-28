@@ -30,7 +30,7 @@ This project detects car damage from images using a YOLOv8 object detection mode
 [https://mavericus-car-damage-detector.hf.space/]
 
 ## 📸 Sample Output
-(<img width="854" height="748" alt="test 23" src="https://github.com/user-attachments/assets/9674abb7-b2dd-4dc1-ac17-fb2caff10673" />)
+<img width="854" height="748" alt="test 23" src="https://github.com/user-attachments/assets/9674abb7-b2dd-4dc1-ac17-fb2caff10673" />
 
 
 
